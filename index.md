@@ -1,6 +1,7 @@
 # Monica Crowe - Software Developer (This is a work in progress)
 
 ## *A Little About Me...* <br>
+## **![Headshot](https://drive.google.com/drive/folders/1MrB1Sab0YK-Z_ozYXLUnyeoX0fm1bgoZ?usp=sharing)**
 <sub>**I am 27 years old, I live in a small town north of Birmingham, AL called Hayden with my husband, two children, and our cat.** <br>
 **I went to [TrueCoders](https://truecoders.io/), I started my coding journey in March 2022 and graduated in July 2022.** <br>
 **Prior to becoming a Software Developer I was a stay-at-home parent for 5 years to both of my children, Audrey(4) and Benjamin(1).** <br>
