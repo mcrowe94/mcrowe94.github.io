@@ -16,7 +16,12 @@ developer for a company in Huntsville. He has been the best help and most suppor
 
 
 ## *Portfolio of some of my projects:* 
-[OpenWeatherMapAPI](https://github.com/mcrowe94/OpenWeatherMapAPI) <br>
+[OpenWeatherMapAPI](https://github.com/mcrowe94/OpenWeatherMapAPI) 
 - A console application that uses an API from OpenWeather.com
 to display the current weather in my home town.
+
+[Phonebook Application](https://github.com/mcrowe94/PhonebookApplication) 
+- Fully functional application for storing contact information using
+CRUD functionality, JSON file manipulation, and Winforms desktop
+app.
 
