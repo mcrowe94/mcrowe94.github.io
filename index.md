@@ -1,4 +1,4 @@
-# Monica Crowe - Software Developer (This is a work in progress)
+# Monica Crowe - Software Developer 
 
 ## *A Little About Me...* <br>
 <sub>**I am 27 years old, I live in a small town north of Birmingham, AL called Hayden with my husband, two children, and our cat.** <br>
@@ -9,7 +9,17 @@ developer for a company in Huntsville. He has been the best help and most suppor
 **Now that I have finished the programming course I'm ready to get out into the world and find a job that will allow me to utilize my skills that I've learned and expand my knowledge in the tech industry.**</sub>
 
 
-## *Certificates* <br>
+## *Education:* <br>
+[TrueCoders](https://truecoders.io/) - Advanced Technical Training
+March 2022 - July 2022
+TrueCoders is a project and lecture-based training program that aims to fill the growing need for data science and 
+software development jobs in Alabama. Projects include multiple personal and group-oriented tasks that involve multiple programming 
+languages throughout the program. Over 500 hours of intensive, project-based training in programming languages and other technical skills, 
+such as C#, .NET Core, SQL, Git, ASP.NET MVC, HTML, CSS, and JavaScript. These skills were developed by building multiple C# and SQL projects.
+C# and SQL Projects were tracked using Git and GitHub for source control.
+
+
+## *Certificates:* <br>
 [TrueCoders Certificate](https://app.digit.ink/view-credential/8b0690ec-e6ef-4dcf-b9a7-d1c48875ef46) <br>
 [Sololearn C# Certificate](https://www.sololearn.com/certificates/course/en/25363435/1080/landscape/png) <br>
 [Sololearn SQL Certificate](https://www.sololearn.com/certificates/course/en/25363435/1060/landscape/png) 
@@ -40,35 +50,11 @@ CRUD operations with a MySQL Database.
 and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.
 
 
+## *My Contact Info:* *<br>
+[My LinkedIn](https://www.linkedin.com/in/monica-crowe-2944ba114/)
+[My GitHub](https://github.com/mcrowe94)
+*If you'd like to get in touch with me, please feel free to send me an email at **mcrowe9194@gmail.com*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![Monica Crowe github stats](https://github-readme-stats.vercel.app/api?username=mcrowe94)](https://github.com/anuraghazra/github-readme-stats)
 
 
