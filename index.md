@@ -1,6 +1,5 @@
-# Hello there! Welcome to my portfolio, please have a look around!
 
-# Monica Crowe - Software Developer 
+Monica Crowe - Software Developer 
 
 ## *A Little About Me...* <br>
 I am 27 years old, I live in a small town north of Birmingham, AL called Hayden with my husband, two children, and our cat.<br>
