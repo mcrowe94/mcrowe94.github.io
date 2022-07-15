@@ -10,25 +10,25 @@ developer for a company in Huntsville. He has been the best help and most suppor
 
 
 ## *Education:* <br>
-<sub> [TrueCoders](https://truecoders.io/) - Advanced Technical Training <br>
+<sub>**[TrueCoders](https://truecoders.io/) - Advanced Technical Training <br>
 *March 2022 - July 2022* <br>
 TrueCoders is a project and lecture-based training program that aims to fill the growing need for data science and 
 software development jobs in Alabama. Projects include multiple personal and group-oriented tasks that involve multiple programming 
 languages throughout the program. Over 500 hours of intensive, project-based training in programming languages and other technical skills, 
 such as C#, .NET Core, SQL, Git, ASP.NET MVC, HTML, CSS, and JavaScript. These skills were developed by building multiple C# and SQL projects.
-C# and SQL Projects were tracked using Git and GitHub for source control. </sub>
+C# and SQL Projects were tracked using Git and GitHub for source control.**</sub>
 
 
 ## *Certificates:* <br>
-<sub> [TrueCoders Certificate](https://app.digit.ink/view-credential/8b0690ec-e6ef-4dcf-b9a7-d1c48875ef46) <br>
-[Sololearn C# Certificate](https://www.sololearn.com/certificates/course/en/25363435/1080/landscape/png) <br>
-[Sololearn SQL Certificate](https://www.sololearn.com/certificates/course/en/25363435/1060/landscape/png) </sub>
+<sub>**[TrueCoders Certificate](https://app.digit.ink/view-credential/8b0690ec-e6ef-4dcf-b9a7-d1c48875ef46)**</sub><br>
+<sub>**[Sololearn C# Certificate](https://www.sololearn.com/certificates/course/en/25363435/1080/landscape/png)**</sub><br>
+<sub>**[Sololearn SQL Certificate](https://www.sololearn.com/certificates/course/en/25363435/1060/landscape/png)**</sub><br>
 
 
 ## *Project Portfolio:* 
 <sub> [OpenWeatherMapAPI](https://github.com/mcrowe94/OpenWeatherMapAPI) 
-- A console application that uses an API from OpenWeather.com
-to display the current weather in my home town. </sub>
+- <sub>**A console application that uses an API from OpenWeather.com
+to display the current weather in my home town.**</sub>
 
 <sub> [Phonebook Application](https://github.com/mcrowe94/PhonebookApplication) 
 - Fully functional application for storing contact information using
