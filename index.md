@@ -10,50 +10,50 @@ developer for a company in Huntsville. He has been the best help and most suppor
 
 
 ## *Education:* <br>
-[TrueCoders](https://truecoders.io/) - Advanced Technical Training <br>
+<sub> [TrueCoders](https://truecoders.io/) - Advanced Technical Training <br>
 *March 2022 - July 2022* <br>
 TrueCoders is a project and lecture-based training program that aims to fill the growing need for data science and 
 software development jobs in Alabama. Projects include multiple personal and group-oriented tasks that involve multiple programming 
 languages throughout the program. Over 500 hours of intensive, project-based training in programming languages and other technical skills, 
 such as C#, .NET Core, SQL, Git, ASP.NET MVC, HTML, CSS, and JavaScript. These skills were developed by building multiple C# and SQL projects.
-C# and SQL Projects were tracked using Git and GitHub for source control.
+C# and SQL Projects were tracked using Git and GitHub for source control. </sub>
 
 
 ## *Certificates:* <br>
-[TrueCoders Certificate](https://app.digit.ink/view-credential/8b0690ec-e6ef-4dcf-b9a7-d1c48875ef46) <br>
+<sub> [TrueCoders Certificate](https://app.digit.ink/view-credential/8b0690ec-e6ef-4dcf-b9a7-d1c48875ef46) <br>
 [Sololearn C# Certificate](https://www.sololearn.com/certificates/course/en/25363435/1080/landscape/png) <br>
-[Sololearn SQL Certificate](https://www.sololearn.com/certificates/course/en/25363435/1060/landscape/png) 
+[Sololearn SQL Certificate](https://www.sololearn.com/certificates/course/en/25363435/1060/landscape/png) </sub>
 
 
-## *Portfolio of some of my projects:* 
-[OpenWeatherMapAPI](https://github.com/mcrowe94/OpenWeatherMapAPI) 
+## *Project Portfolio:* 
+<sub> [OpenWeatherMapAPI](https://github.com/mcrowe94/OpenWeatherMapAPI) 
 - A console application that uses an API from OpenWeather.com
-to display the current weather in my home town.
+to display the current weather in my home town. </sub>
 
-[Phonebook Application](https://github.com/mcrowe94/PhonebookApplication) 
+<sub> [Phonebook Application](https://github.com/mcrowe94/PhonebookApplication) 
 - Fully functional application for storing contact information using
 CRUD functionality, JSON file manipulation, and Winforms desktop
-app.
+app. </sub>
 
-[Taco Parser](https://github.com/mcrowe94/TacoParser)
+<sub> [Taco Parser](https://github.com/mcrowe94/TacoParser)
 - C# .NET Application where I parse data from a .csv file to
 reference Taco Bell locations. The data is used to calculate
 the distance between the two locations that are farthest
-apart.
+apart. </sub>
 
-[ASP.NET MVC](https://github.com/mcrowe94/ASPNET)
+<sub> [ASP.NET MVC](https://github.com/mcrowe94/ASPNET)
 - ASP.NET Core project used to create a web application that allows
-CRUD operations with a MySQL Database.
+CRUD operations with a MySQL Database. </sub>
 
-[KanyeREST](https://github.com/mcrowe94/KanyeREST)
+<sub> [KanyeREST](https://github.com/mcrowe94/KanyeREST)
 - C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, 
-and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.
+and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two. </sub>
 
 
 ## *My Contact Info:* <br>
-[My LinkedIn](https://www.linkedin.com/in/monica-crowe-2944ba114/) <br>
+<sub> [My LinkedIn](https://www.linkedin.com/in/monica-crowe-2944ba114/) <br>
 [My GitHub](https://github.com/mcrowe94) <br>
-*If you'd like to get in touch with me, please feel free to send me an email at **mcrowe9194@gmail.com** <br>
+*If you'd like to get in touch with me, please feel free to send me an email at **mcrowe9194@gmail.com** </sub><br> 
 
 [![Monica Crowe github stats](https://github-readme-stats.vercel.app/api?username=mcrowe94)](https://github.com/anuraghazra/github-readme-stats)
 
