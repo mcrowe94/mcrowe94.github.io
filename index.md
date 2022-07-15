@@ -1,6 +1,5 @@
 <br>
-## *Monica Crowe - Software Developer* <br>
-[My Resume](https://drive.google.com/drive/folders/1gIpgEvCe8stZ44kLRoc9KO-cmuacMVLc)
+## *Monica Crowe - Software Developer*
 
 ## *A Little About Me...* <br>
 I am 27 years old, I live in a small town north of Birmingham, AL called Hayden with my husband, two children, and our cat.<br>
