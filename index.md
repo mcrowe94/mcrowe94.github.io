@@ -25,3 +25,50 @@ to display the current weather in my home town.
 CRUD functionality, JSON file manipulation, and Winforms desktop
 app.
 
+[Taco Parser](https://github.com/mcrowe94/TacoParser)
+- C# .NET Application where I parse data from a .csv file to
+reference Taco Bell locations. The data is used to calculate
+the distance between the two locations that are farthest
+apart.
+
+[ASP.NET MVC](https://github.com/mcrowe94/ASPNET)
+- ASP.NET Core project used to create a web application that allows
+CRUD operations with a MySQL Database.
+
+[KanyeREST](https://github.com/mcrowe94/KanyeREST)
+- C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, 
+and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
