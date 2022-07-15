@@ -1,9 +1,8 @@
 <br>
 ## *Monica Crowe - Software Developer* <br>
-[PDF Resume](https://drive.google.com/drive/u/0/folders/1gIpgEvCe8stZ44kLRoc9KO-cmuacMVLc)
 
 ## *A Little About Me...* <br>
-I started my coding journey in March 2022 at **[TrueCoders](https://truecoders.io/)** and received my certificate of completion in July 2022. 
+I started my coding journey in March 2022 at [TrueCoders](https://truecoders.io/) and received my certificate of completion in July 2022. 
 Prior to becoming a Software Developer I was a stay-at-home parent for 5 years to both of my children, Audrey(4) and Benjamin(1).
 I'm married to my best friend, who also turned me on to the coding world. My husband graduated from TrueCoders earlier this year and has been working as a
 developer for a company in Huntsville. He has been the best help and most supportive partner while I was going through the Software Development program.
@@ -21,9 +20,9 @@ C# and SQL Projects were tracked using Git and GitHub for source control.
 
 
 ## *Certificates:* <br>
-**[TrueCoders Certificate](https://app.digit.ink/view-credential/8b0690ec-e6ef-4dcf-b9a7-d1c48875ef46)**<br>
-**[Sololearn C# Certificate](https://www.sololearn.com/certificates/course/en/25363435/1080/landscape/png)**<br>
-**[Sololearn SQL Certificate](https://www.sololearn.com/certificates/course/en/25363435/1060/landscape/png)**<br>
+[TrueCoders Certificate](https://app.digit.ink/view-credential/8b0690ec-e6ef-4dcf-b9a7-d1c48875ef46)<br>
+[Sololearn C# Certificate](https://www.sololearn.com/certificates/course/en/25363435/1080/landscape/png)<br>
+[Sololearn SQL Certificate](https://www.sololearn.com/certificates/course/en/25363435/1060/landscape/png)<br>
 
 
 ## *Project Portfolio:* 
@@ -51,10 +50,11 @@ CRUD operations with a MySQL Database.
 and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.
 
 
-## *My Contact Info:* <br>
+## *My Links and Contact Info:* <br>
+**[PDF Resume](https://drive.google.com/drive/u/0/folders/1gIpgEvCe8stZ44kLRoc9KO-cmuacMVLc)**<br>
 **[My LinkedIn](https://www.linkedin.com/in/monica-crowe-2944ba114/)**<br>
 **[My GitHub](https://github.com/mcrowe94)**<br>
-If you'd like to get in touch with me, please feel free to send me an email at **mcrowe9194@gmail.com**<br> 
+If you'd like to get in touch with me, please feel free to send me an email at *mcrowe9194@gmail.com*<br> 
 
 [![Monica Crowe github stats](https://github-readme-stats.vercel.app/api?username=mcrowe94)](https://github.com/anuraghazra/github-readme-stats)
 
