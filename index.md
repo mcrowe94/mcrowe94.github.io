@@ -1,5 +1,6 @@
 <br>
-## *Monica Crowe - Software Developer*
+## *Monica Crowe - Software Developer* <br>
+[PDF Resume](https://drive.google.com/drive/u/0/folders/1gIpgEvCe8stZ44kLRoc9KO-cmuacMVLc)
 
 ## *A Little About Me...* <br>
 I started my coding journey in March 2022 at **[TrueCoders](https://truecoders.io/)** and received my certificate of completion in July 2022. 
