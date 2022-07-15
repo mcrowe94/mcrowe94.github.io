@@ -11,5 +11,10 @@ developer for a company in Huntsville. He has been the best help and most suppor
 ## *Certificates* <br>
 [TrueCoders Certificate](https://app.digit.ink/view-credential/8b0690ec-e6ef-4dcf-b9a7-d1c48875ef46) <br>
 [Sololearn C# Certificate](https://www.sololearn.com/certificates/course/en/25363435/1080/landscape/png) <br>
-[Sololearn SQL Certificate](https://www.sololearn.com/certificates/course/en/25363435/1060/landscape/png) </br>
+[Sololearn SQL Certificate](https://www.sololearn.com/certificates/course/en/25363435/1060/landscape/png) 
+
+## *Portfolio of some of my projects:* <br>
+[OpenWeatherMapAPI](https://github.com/mcrowe94/OpenWeatherMapAPI) <br>
+- A console application that uses an API from OpenWeather.com
+to display the current weather in my home town.
 
