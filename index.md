@@ -3,10 +3,10 @@
 
 ## *A Little About Me...* <br>
 I started my coding journey in March 2022 at [TrueCoders](https://truecoders.io/) and received my certificate of completion in July 2022. 
-Prior to becoming a Software Developer I was a stay-at-home parent for 5 years to both of my children, Audrey(4) and Benjamin(1).
+Prior to becoming a Software Developer, I have been a stay-at-home parent for 5 years to both of my children, Audrey(4) and Benjamin(1).
 I'm married to my best friend, who also turned me on to the coding world. My husband graduated from TrueCoders earlier this year and has been working as a
 developer for a company in Huntsville. He has been the best help and most supportive partner while I was going through the Software Development program.
-Now that I have finished the programming course I'm ready to get out into the world and find a job that will allow me to utilize my skills that I've learned and expand my knowledge in the tech industry.
+Now that I have finished the programming course, I'm ready to find a job that will allow me to utilize my skills that I've learned and expand my knowledge in the tech industry.
 
 
 ## *Education:* <br>
