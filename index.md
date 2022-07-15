@@ -1,3 +1,5 @@
+# Hello there! Welcome to my portfolio, please have a look around!
+
 # Monica Crowe - Software Developer 
 
 ## *A Little About Me...* <br>
