@@ -2,7 +2,6 @@
 ## *Monica Crowe - Software Developer*
 
 ## *A Little About Me...* <br>
-I live in a small town north of Birmingham, AL called Hayden with my husband, two children, and our cat.<br>
 I started my coding journey in March 2022 at **[TrueCoders](https://truecoders.io/)** and received my certificate of completion in July 2022. <br>
 Prior to becoming a Software Developer I was a stay-at-home parent for 5 years to both of my children, Audrey(4) and Benjamin(1).<br>
 I'm married to my best friend, who also turned me on to the coding world. <br> My husband graduated from TrueCoders earlier this year and has been working as a
