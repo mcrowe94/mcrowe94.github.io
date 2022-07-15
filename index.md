@@ -10,8 +10,8 @@ developer for a company in Huntsville. He has been the best help and most suppor
 
 
 ## *Education:* <br>
-[TrueCoders](https://truecoders.io/) - Advanced Technical Training
-March 2022 - July 2022
+[TrueCoders](https://truecoders.io/) - Advanced Technical Training <br>
+*March 2022 - July 2022* <br>
 TrueCoders is a project and lecture-based training program that aims to fill the growing need for data science and 
 software development jobs in Alabama. Projects include multiple personal and group-oriented tasks that involve multiple programming 
 languages throughout the program. Over 500 hours of intensive, project-based training in programming languages and other technical skills, 
@@ -50,10 +50,10 @@ CRUD operations with a MySQL Database.
 and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.
 
 
-## *My Contact Info:* *<br>
-[My LinkedIn](https://www.linkedin.com/in/monica-crowe-2944ba114/)
-[My GitHub](https://github.com/mcrowe94)
-*If you'd like to get in touch with me, please feel free to send me an email at **mcrowe9194@gmail.com*
+## *My Contact Info:* <br>
+[My LinkedIn](https://www.linkedin.com/in/monica-crowe-2944ba114/) <br>
+[My GitHub](https://github.com/mcrowe94) <br>
+*If you'd like to get in touch with me, please feel free to send me an email at **mcrowe9194@gmail.com** <br>
 
 [![Monica Crowe github stats](https://github-readme-stats.vercel.app/api?username=mcrowe94)](https://github.com/anuraghazra/github-readme-stats)
 
