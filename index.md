@@ -1,1 +1,1 @@
-<img src="/images/html5.gif" alt="HTML5 Icon" style="width:128px;height:128px;"><img align="left" width="100" height="100" src="https://www.linkedin.com/in/monica-crowe-2944ba114/">
+<img src="https://www.linkedin.com/in/monica-crowe-2944ba114/" alt="HTML5 Icon" style="width:128px;height:128px;"><img align="left" width="100" height="100" src="https://www.linkedin.com/in/monica-crowe-2944ba114/">
