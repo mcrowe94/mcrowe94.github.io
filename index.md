@@ -2,7 +2,7 @@
 <html>
 <head>
     <style>
-        h1{text-align: left;}
+        h1{text-align: left}
     </style>
 </head>
 <body>
