@@ -16,6 +16,24 @@ TrueCoders is a project and lecture-based training program that aims to fill the
 * [Sololearn SQL Certificate](https://www.sololearn.com/Certificate/CT-LQSHSKRH/png)
 * [Sololearn HTML Certificate](https://www.sololearn.com/Certificate/CT-HORKDJRF/pdf)
 
+
+## Project Links & Descriptions:##<br>
+*[OpenWeatherMapAPI](https://github.com/mcrowe94/OpenWeatherMapAPI)*<br>
+* **A console application that uses an API from OpenWeather.com to display the current weather in my home town.**<br>
+
+*[Phonebook Application](https://github.com/mcrowe94/PhonebookApplication)*<br>
+* **Fully functional application for storing contact information using CRUD functionality, JSON file manipulation, and Winforms desktop app.**<br>
+
+*[Taco Parser](https://github.com/mcrowe94/TacoParser)*<br>
+* **C# .NET Application where I parse data from a .csv file to reference Taco Bell locations. The data is used to calculate the distance between the two locations that are farthest apart.**<br>
+
+*[ASP.NET MVC](https://github.com/mcrowe94/ASPNET)*<br>
+* **ASP.NET Core project used to create a web application that allows CRUD operations with a MySQL Database.**<br>
+
+*[KanyeREST](https://github.com/mcrowe94/KanyeREST)*<br>
+* **C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.**<br>
+
 New Line
+
 
 
