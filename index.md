@@ -17,7 +17,7 @@ TrueCoders is a project and lecture-based training program that aims to fill the
 * [Sololearn HTML Certificate](https://www.sololearn.com/Certificate/CT-HORKDJRF/pdf)
 
 
-## Project Links & Descriptions:##<br>
+## Project Links & Descriptions:<br>
 *[OpenWeatherMapAPI](https://github.com/mcrowe94/OpenWeatherMapAPI)*<br>
 * **A console application that uses an API from OpenWeather.com to display the current weather in my home town.**<br>
 
