@@ -39,7 +39,7 @@ TrueCoders is a project and lecture-based training program that aims to fill the
 * **Email: mcrowe9194@gmail.com**
 
 ## *My Resume:*<br>
-* **[Resume PDF](https://drive.google.com/drive/u/0/folders/1gIpgEvCe8stZ44kLRoc9KO-cmuacMVLc)**<br>
+* **[Resume PDF](https://drive.google.com/drive/folders/1gIpgEvCe8stZ44kLRoc9KO-cmuacMVLc?usp=sharing)**<br>
 
 
 
