@@ -33,7 +33,7 @@ TrueCoders is a project and lecture-based training program that aims to fill the
 *[KanyeREST](https://github.com/mcrowe94/KanyeREST)*<br>
 * **C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.**<br>
 
-New Line
+End Line
 
 
 
