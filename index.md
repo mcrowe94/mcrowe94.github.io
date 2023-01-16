@@ -10,5 +10,12 @@ TrueCoders - Advanced Technical Training<br>
 *March 2022 - July 2022*<br>
 TrueCoders is a project and lecture-based training program that aims to fill the growing need for data science and software development jobs in Alabama. Projects include multiple personal and group-oriented tasks that involve multiple programming languages throughout the program. Over 500 hours of intensive, project-based training in programming languages and other technical skills, such as C#, .NET Core, SQL, Git, ASP.NET MVC, HTML, CSS, and JavaScript. These skills were developed by building multiple C# and SQL projects. C# and SQL Projects were tracked using Git and GitHub for source control.<br>
 
+## **Certificates:**<br>
+* [TrueCoders Certificate](https://app.digit.ink/view-credential/8b0690ec-e6ef-4dcf-b9a7-d1c48875ef46?di_ref=a2li)
+* [Sololearn C# Certificate](https://www.sololearn.com/Certificate/CT-TSR60V26/png)
+* [Sololearn SQL Certificate](https://www.sololearn.com/Certificate/CT-LQSHSKRH/png)
+* [Sololearn HTML Certificate](https://www.sololearn.com/Certificate/CT-HORKDJRF/pdf)
+
 New Line
+
 
