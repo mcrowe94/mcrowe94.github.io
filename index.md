@@ -2,7 +2,7 @@
 ## Monica Crowe - *Software Developer and Teaching Assistant*<br>
 ## C#, .NET Core, SQL, Git, ASP.NET MVC, HTML, CSS, and JavaScript<br>
 ***A Little About Me...***<br>
-Hello & thank you for paying a visit to my portfolio!<br>
+**Hello & thank you for paying a visit to my portfolio!<br>
 My name is Monica, I'm a 28 year old wife, mother, sister, daughter, and Software Developer.<br> 
 I was born in Birmingham, Alabama, and have lived here in the Yellow Hammer state my whole life! I live just thirty minutes north of Birmingham in a small town where everyone knows one another and it always seems no matter where you go you're going to run into someone you know and have a conversation about life.<b> 
 I met my husband in our little town and are currently raising our two wonderful children here!<br>
