@@ -2,8 +2,16 @@
 ## Monica Crowe - *Software Developer and Teaching Assistant*<br>
 ## C#, .NET Core, SQL, Git, ASP.NET MVC, HTML, CSS, and JavaScript<br>
 ***A Little About Me...***<br>
+Hello & thank you for paying a visit to my portfolio!<br>
+My name is Monica, I'm a 28 year old wife, mother, sister, daughter, and Software Developer.<br> 
+I was born in Birmingham, Alabama, and have lived here in the Yellow Hammer state my whole life! I live just thirty minutes north of Birmingham in a small town where everyone knows one another and it always seems no matter where you go you're going to run into someone you know and have a conversation about life.<b> 
+I met my husband in our little town and are currently raising our two wonderful children here!<br>
 I started my coding journey in March 2022 at [TrueCoders](https://truecoders.io/) and received my certificate of completion in July 2022.<br>
-Prior to becoming a Software Developer, I have been a stay-at-home parent for 5 years to both of my children, Audrey and Benjamin. I'm married to my best friend, who also turned me on to the coding world. My husband graduated from TrueCoders earlier this year and has been working as a developer for a company in Huntsville. He has been the best help and most supportive partner while I was going through the Software Development program.<br> I have accepted a position with TrueCoders as a Teaching Assistant as of October 2022. I now get to help students learn to develop their own projects and find a new love for software development! I'm so happy to be doing something I'm not only passionate about, but I get to be a part of an awesome team and work every day from the comfort of my home!<br>
+TrueCoders is a wonderful program for those who are interested in taking a different career path and learning to get into Software Development and Web Development.<br>
+We offer full-time live classes with some absolutely wonderful instructors, as well as a flex course where you earn your certificate on your own time!<br>
+In 2022 I took it upon myself to do the flex course, since being a wife and mother first I found it much easier for me to learn in my down time at night when my children were in bed. I was offered employeement with them in October 2022, where I became a Teaching Assistant under an Instructor. My job is to help out our students who are working on exercises and projects for class, it's my goal to help my students who come through our program become confident in their coding abilities and become successful once they finish our program! I love what I do and I love that my knowledge has been able to help others succeed!<br>
+I am now a proud and confident Software Developer thanks to the TrueCoders program!<br>
+
 
 ## **Education:**<br>
 TrueCoders - Advanced Technical Training<br>
